@@ -22,14 +22,6 @@ iris-linux = distro name
 xfce = distro flavor
 x86_64 = distro architecture
 
-# Special thanks
-
-Linux from Scratch: https://www.linuxfromscratch.org/lfs/
-Beyond Linux from Scratch: https://www.linuxfromscratch.org/blfs/
-Arch Linux: https://archlinux.org/
-Exton Linux: https://linux.exton.net/
-Live Linux Kit: https://www.linux-live.org/
-
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/13150712/131042982-4eae0fbb-5547-4ad7-a8e5-371ef824e44f.png)
@@ -37,3 +29,11 @@ Live Linux Kit: https://www.linux-live.org/
 ![image](https://user-images.githubusercontent.com/13150712/131043046-4ac64585-4061-4ae9-8705-993ca7de267b.png)
 ![image](https://user-images.githubusercontent.com/13150712/131043054-62d95197-1689-40b5-bd83-2da74baf48cb.png)
 ![image](https://user-images.githubusercontent.com/13150712/131043058-527f6757-6741-4145-a2ac-71dc9c2a9fb7.png)
+
+# Special thanks
+
+Linux from Scratch: https://www.linuxfromscratch.org/lfs/
+Beyond Linux from Scratch: https://www.linuxfromscratch.org/blfs/
+Arch Linux: https://archlinux.org/
+Exton Linux: https://linux.exton.net/
+Live Linux Kit: https://www.linux-live.org/
