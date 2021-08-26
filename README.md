@@ -17,9 +17,13 @@ Lastly, to login you either got to use the root user or the iris user. The passw
 Example: iris-linux-0.1-5.10-xfce-x86_64
 
 iris-linux = distro name
+
 0.1 = distro version
+
 5.10 = kernel version
+
 xfce = distro flavor
+
 x86_64 = distro architecture
 
 # Screenshots
@@ -33,7 +37,11 @@ x86_64 = distro architecture
 # Special thanks
 
 Linux from Scratch: https://www.linuxfromscratch.org/lfs/
+
 Beyond Linux from Scratch: https://www.linuxfromscratch.org/blfs/
+
 Arch Linux: https://archlinux.org/
+
 Exton Linux: https://linux.exton.net/
+
 Live Linux Kit: https://www.linux-live.org/
