@@ -1,4 +1,4 @@
-# irislinux
+# Iris Linux
 
 I am proud to announce the very first public release of Iris Linux. There is some stuff you need to know beforehand...
 
@@ -11,3 +11,13 @@ Furthermore, the live environment isn't completely finished yet. For instance, I
 Apart from that, Iris Linux uses pacman as its package manager, and has Arch Linux's repositories by default. However, it is not as simple to use as usual. Please check /how-to-use-pacman.txt inside the root filesystem to learn more, and don't hesitate to ask if you run into any issues.
 
 Lastly, to login you either got to use the root user or the iris user. The passwords are the same as the usernames in both cases.
+
+# What does all of that mumbo-jumbo on the .iso file mean?
+
+Example: iris-linux-0.1-5.10-xfce-x86_64
+
+iris-linux = distro name
+0.1 = distro version
+5.10 = kernel version
+xfce = distro flavor
+x86_64 = distro architecture
